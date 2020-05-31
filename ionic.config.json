@@ -1,5 +1,16 @@
 {
   "name": "myApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "enterprise": {
+      "keyId": 1328,
+      "productKey": "key_f476ec395ede41b69c2f437e076b170f",
+      "appId": "180e1c9c",
+      "orgId": "7808adf4-2388-4c9e-aa7d-430b02d1b5ef",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
+  },
   "type": "angular"
 }
